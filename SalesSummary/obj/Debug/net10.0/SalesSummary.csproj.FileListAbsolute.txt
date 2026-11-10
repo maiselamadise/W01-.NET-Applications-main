@@ -1,0 +1,14 @@
+/Users/manhlamadise/Desktop/W01-.NET-Applications-main/SalesSummary/bin/Debug/net10.0/SalesSummary
+/Users/manhlamadise/Desktop/W01-.NET-Applications-main/SalesSummary/bin/Debug/net10.0/SalesSummary.deps.json
+/Users/manhlamadise/Desktop/W01-.NET-Applications-main/SalesSummary/bin/Debug/net10.0/SalesSummary.runtimeconfig.json
+/Users/manhlamadise/Desktop/W01-.NET-Applications-main/SalesSummary/bin/Debug/net10.0/SalesSummary.dll
+/Users/manhlamadise/Desktop/W01-.NET-Applications-main/SalesSummary/bin/Debug/net10.0/SalesSummary.pdb
+/Users/manhlamadise/Desktop/W01-.NET-Applications-main/SalesSummary/obj/Debug/net10.0/SalesSummary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manhlamadise/Desktop/W01-.NET-Applications-main/SalesSummary/obj/Debug/net10.0/SalesSummary.AssemblyInfoInputs.cache
+/Users/manhlamadise/Desktop/W01-.NET-Applications-main/SalesSummary/obj/Debug/net10.0/SalesSummary.AssemblyInfo.cs
+/Users/manhlamadise/Desktop/W01-.NET-Applications-main/SalesSummary/obj/Debug/net10.0/SalesSummary.csproj.CoreCompileInputs.cache
+/Users/manhlamadise/Desktop/W01-.NET-Applications-main/SalesSummary/obj/Debug/net10.0/SalesSummary.dll
+/Users/manhlamadise/Desktop/W01-.NET-Applications-main/SalesSummary/obj/Debug/net10.0/refint/SalesSummary.dll
+/Users/manhlamadise/Desktop/W01-.NET-Applications-main/SalesSummary/obj/Debug/net10.0/SalesSummary.pdb
+/Users/manhlamadise/Desktop/W01-.NET-Applications-main/SalesSummary/obj/Debug/net10.0/SalesSummary.genruntimeconfig.cache
+/Users/manhlamadise/Desktop/W01-.NET-Applications-main/SalesSummary/obj/Debug/net10.0/ref/SalesSummary.dll
